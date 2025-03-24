@@ -1,0 +1,266 @@
+[
+  {
+    "book": "Genesis",
+    "ba": "<span class=\"ulVerse\">Genesis</span>, Exodus"
+  },
+  {
+    "book": "Exodus",
+    "ba": "Genesis, <span class=\"ulVerse\">Exodus</span>, Leviticus"
+  },
+  {
+    "book": "Leviticus",
+    "ba": "Exodus, <span class=\"ulVerse\">Leviticus</span>, Numbers"
+  },
+  {
+    "book": "Numbers",
+    "ba": "Leviticus, <span class=\"ulVerse\">Numbers</span>, Deuteronomy"
+  },
+  {
+    "book": "Deuteronomy",
+    "ba": "Numbers, <span class=\"ulVerse\">Deuteronomy</span>, Joshua"
+  },
+  {
+    "book": "Joshua",
+    "ba": "Deuteronomy, <span class=\"ulVerse\">Joshua</span>, Judges"
+  },
+  {
+    "book": "Judges",
+    "ba": "Joshua, <span class=\"ulVerse\">Judges</span>, Ruth"
+  },
+  {
+    "book": "Ruth",
+    "ba": "Judges, <span class=\"ulVerse\">Ruth</span>, 1 Samuel"
+  },
+  {
+    "book": "1 Samuel",
+    "ba": "Ruth, <span class=\"ulVerse\">1 Samuel</span>, 2 Samuel"
+  },
+  {
+    "book": "2 Samuel",
+    "ba": "1 Samuel, <span class=\"ulVerse\">2 Samuel</span>, 1 Kings"
+  },
+  {
+    "book": "1 Kings",
+    "ba": "2 Samuel, <span class=\"ulVerse\">1 Kings</span>, 2 Kings"
+  },
+  {
+    "book": "2 Kings",
+    "ba": "1 Kings, <span class=\"ulVerse\">2 Kings</span>, 1 Chronicles"
+  },
+  {
+    "book": "1 Chronicles",
+    "ba": "2 Kings, <span class=\"ulVerse\">1 Chronicles</span>, 2 Chronicles"
+  },
+  {
+    "book": "2 Chronicles",
+    "ba": "1 Chronicles, <span class=\"ulVerse\">2 Chronicles</span>, Ezra"
+  },
+  {
+    "book": "Ezra",
+    "ba": "2 Chronicles, <span class=\"ulVerse\">Ezra</span>, Nehemiah"
+  },
+  {
+    "book": "Nehemiah",
+    "ba": "Ezra, <span class=\"ulVerse\">Nehemiah</span>, Esther"
+  },
+  {
+    "book": "Esther",
+    "ba": "Nehemiah, <span class=\"ulVerse\">Esther</span>, Job"
+  },
+  {
+    "book": "Job",
+    "ba": "Esther, <span class=\"ulVerse\">Job</span>, Psalms"
+  },
+  {
+    "book": "Psalms",
+    "ba": "Job, <span class=\"ulVerse\">Psalms</span>, Proverbs"
+  },
+  {
+    "book": "Proverbs",
+    "ba": "Psalms, <span class=\"ulVerse\">Proverbs</span>, Ecclesiastes"
+  },
+  {
+    "book": "Ecclesiastes",
+    "ba": "Proverbs, <span class=\"ulVerse\">Ecclesiastes</span>, Song of Solomon"
+  },
+  {
+    "book": "Song of Solomon",
+    "ba": "Ecclesiastes, <span class=\"ulVerse\">Song of Solomon</span>, Isaiah"
+  },
+  {
+    "book": "Isaiah",
+    "ba": "Song of Solomon, <span class=\"ulVerse\">Isaiah</span>, Jeremiah"
+  },
+  {
+    "book": "Jeremiah",
+    "ba": "Isaiah, <span class=\"ulVerse\">Jeremiah</span>, Lamentations"
+  },
+  {
+    "book": "Lamentations",
+    "ba": "Jeremiah, <span class=\"ulVerse\">Lamentations</span>, Ezekiel"
+  },
+  {
+    "book": "Ezekiel",
+    "ba": "Lamentations, <span class=\"ulVerse\">Ezekiel</span>, Daniel"
+  },
+  {
+    "book": "Daniel",
+    "ba": "Ezekiel, <span class=\"ulVerse\">Daniel</span>, Hosea"
+  },
+  {
+    "book": "Hosea",
+    "ba": "Daniel, <span class=\"ulVerse\">Hosea</span>, Joel"
+  },
+  {
+    "book": "Joel",
+    "ba": "Hosea, <span class=\"ulVerse\">Joel</span>, Amos"
+  },
+  {
+    "book": "Amos",
+    "ba": "Joel, <span class=\"ulVerse\">Amos</span>, Obadiah"
+  },
+  {
+    "book": "Obadiah",
+    "ba": "Amos, <span class=\"ulVerse\">Obadiah</span>, Jonah"
+  },
+  {
+    "book": "Jonah",
+    "ba": "Obadiah, <span class=\"ulVerse\">Jonah</span>, Micah"
+  },
+  {
+    "book": "Micah",
+    "ba": "Jonah, <span class=\"ulVerse\">Micah</span>, Nahum"
+  },
+  {
+    "book": "Nahum",
+    "ba": "Micah, <span class=\"ulVerse\">Nahum</span>, Habakkuk"
+  },
+  {
+    "book": "Habakkuk",
+    "ba": "Nahum, <span class=\"ulVerse\">Habakkuk</span>, Zephaniah"
+  },
+  {
+    "book": "Zephaniah",
+    "ba": "Habakkuk, <span class=\"ulVerse\">Zephaniah</span>, Haggai"
+  },
+  {
+    "book": "Haggai",
+    "ba": "Zephaniah, <span class=\"ulVerse\">Haggai</span>, Zechariah"
+  },
+  {
+    "book": "Zechariah",
+    "ba": "Haggai, <span class=\"ulVerse\">Zechariah</span>, Malachi"
+  },
+  {
+    "book": "Malachi",
+    "ba": "Zechariah, <span class=\"ulVerse\">Malachi</span>, Matthew"
+  },
+  {
+    "book": "Matthew",
+    "ba": "Malachi, <span class=\"ulVerse\">Matthew</span>, Mark"
+  },
+  {
+    "book": "Mark",
+    "ba": "Matthew, <span class=\"ulVerse\">Mark</span>, Luke"
+  },
+  {
+    "book": "Luke",
+    "ba": "Mark, <span class=\"ulVerse\">Luke</span>, John"
+  },
+  {
+    "book": "John",
+    "ba": "Luke, <span class=\"ulVerse\">John</span>, Acts"
+  },
+  {
+    "book": "Acts",
+    "ba": "John, <span class=\"ulVerse\">Acts</span>, Romans"
+  },
+  {
+    "book": "Romans",
+    "ba": "Acts, <span class=\"ulVerse\">Romans</span>, 1 Corinthians"
+  },
+  {
+    "book": "1 Corinthians",
+    "ba": "Romans, <span class=\"ulVerse\">1 Corinthians</span>, 2 Corinthians"
+  },
+  {
+    "book": "2 Corinthians",
+    "ba": "1 Corinthians, <span class=\"ulVerse\">2 Corinthians</span>, Galatians"
+  },
+  {
+    "book": "Galatians",
+    "ba": "2 Corinthians, <span class=\"ulVerse\">Galatians</span>, Ephesians"
+  },
+  {
+    "book": "Ephesians",
+    "ba": "Galatians, <span class=\"ulVerse\">Ephesians</span>, Philippians"
+  },
+  {
+    "book": "Philippians",
+    "ba": "Ephesians, <span class=\"ulVerse\">Philippians</span>, Colossians"
+  },
+  {
+    "book": "Colossians",
+    "ba": "Philippians, <span class=\"ulVerse\">Colossians</span>, 1 Thessalonians"
+  },
+  {
+    "book": "1 Thessalonians",
+    "ba": "Colossians, <span class=\"ulVerse\">1 Thessalonians</span>, 2 Thessalonians"
+  },
+  {
+    "book": "2 Thessalonians",
+    "ba": "1 Thessalonians, <span class=\"ulVerse\">2 Thessalonians</span>, 1 Timothy"
+  },
+  {
+    "book": "1 Timothy",
+    "ba": "2 Thessalonians, <span class=\"ulVerse\">1 Timothy</span>, 2 Timothy"
+  },
+  {
+    "book": "2 Timothy",
+    "ba": "1 Timothy, <span class=\"ulVerse\">2 Timothy</span>, Titus"
+  },
+  {
+    "book": "Titus",
+    "ba": "2 Timothy, <span class=\"ulVerse\">Titus</span>, Philemon"
+  },
+  {
+    "book": "Philemon",
+    "ba": "Titus, <span class=\"ulVerse\">Philemon</span>, Hebrews"
+  },
+  {
+    "book": "Hebrews",
+    "ba": "Philemon, <span class=\"ulVerse\">Hebrews</span>, James"
+  },
+  {
+    "book": "James",
+    "ba": "Hebrews, <span class=\"ulVerse\">James</span>, 1 Peter"
+  },
+  {
+    "book": "1 Peter",
+    "ba": "James, <span class=\"ulVerse\">1 Peter</span>, 2 Peter"
+  },
+  {
+    "book": "2 Peter",
+    "ba": "1 Peter, <span class=\"ulVerse\">2 Peter</span>, 1 John"
+  },
+  {
+    "book": "1 John",
+    "ba": "2 Peter, <span class=\"ulVerse\">1 John</span>, 2 John"
+  },
+  {
+    "book": "2 John",
+    "ba": "1 John, <span class=\"ulVerse\">2 John</span>, 3 John"
+  },
+  {
+    "book": "3 John",
+    "ba": "2 John, <span class=\"ulVerse\">3 John</span>, Jude"
+  },
+  {
+    "book": "Jude",
+    "ba": "3 John, <span class=\"ulVerse\">Jude</span>, Revelation"
+  },
+  {
+    "book": "Revelation",
+    "ba": "Jude, <span class=\"ulVerse\">Revelation</span>"
+  }
+]
