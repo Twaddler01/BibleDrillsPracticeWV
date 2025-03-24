@@ -8,3 +8,4 @@ Basic Javascript app for practicing Bible Drills.
 https://twaddler01.github.io/bible-drills-practice/
 
 # RELEASES
+[📥 Download Latest APK]()
